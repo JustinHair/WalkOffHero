@@ -44,5 +44,6 @@ Temporary Items
 
 # Walk Of Hero Ignores
 # Ignore any saved local files
-/Saved/**
+Saved
+Intermediate
 
