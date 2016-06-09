@@ -56,3 +56,5 @@ Saved
 *.sln
 *.suo
 *.opendb
+Intermediate
+*.bin
